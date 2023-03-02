@@ -1,0 +1,8 @@
+---
+apiversion: v2
+kind: development
+metadata:
+  name:
+  namespace:
+spec:
+  containers: angular10
